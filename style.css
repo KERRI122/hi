@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: navy;
+  padding: 10px;
+  color: white;
+}
+.a1 {
+    background-color: green;
+}
+.how {
+    color: blue;
+}
+nav {
+    color: blue;
+    text-decoration: none;
+    border: lightblue solid 2px;
+    text-align: center;
+    padding: 5px;
+}
+.Info {
+    border: white solid 2px;
+    color: white;
+    margin: 10px;
+    padding: 5px;
+    text-decoration: none;
+}
+.season {
+    color: blue;
+}
+main h1 {
+    color: orange;
+    border: violet solid 2px;
+    border-radius: 12px;
+    text-align: center;
+}
+footer p{
+    background-color: lightgreen;
+}
+nav a {
+    margin: 50px;
+    text-decoration: none;
+    text-decoration: ;
+}
+main {
+
+}
